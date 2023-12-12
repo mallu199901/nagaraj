@@ -1,0 +1,8 @@
+name : nagaraj pawar
+age : 18
+gender : male
+email id : nagu@gmail.com
+qulification : sslc pass,
+               diploma in cse.
+hobbies : playing,
+          swimming.
